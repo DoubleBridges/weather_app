@@ -1,3 +1,3 @@
 # weather_app
 
-A basic flutter weather app using native locationAPI's and http requests
+A basic flutter weather app using native location API's and http requests
